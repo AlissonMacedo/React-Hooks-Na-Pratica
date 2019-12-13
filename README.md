@@ -4,7 +4,7 @@
 
 ## 💻 A pagina principal
 
-- Lista meu favoritos do github
+- Lista meus favoritos do github
 
 <p align="center">
 <img src="./demo/demo1.gif" alt="demo1" title="demo1">
