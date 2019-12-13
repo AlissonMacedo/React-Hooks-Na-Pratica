@@ -1,21 +1,25 @@
-# [Lista de Favoritos]
+<h1 align="center">Listagem de Favoritos</h1>
 
-(https://github.com/AlissonMacedo/to-do-list-reactjs/)
+- Esta pagina visa mostrar a utilização dos Hooks no ReactJS
 
-![Pagina estatica com lista de meus favoritos.](./demo/demo1.gif"demo1 - Visa mostrar o funcionamento dos novos hooks.")
+## 💻 A pagina principal
 
-## How to use
+- Lista meu favoritos do github
+
+<p align="center">
+<img src="./demo/demo1.gif" alt="demo1" title="demo1">
+</p>
+
+## 🎩 How it works
+
+- Install dependêncies
 
 ```sh
-npm install
+yarn
 ```
 
-```sh
-npm start
-```
-
-The project will run in
+- Run the project
 
 ```sh
-http://localhost:8080/
+yarn start
 ```
